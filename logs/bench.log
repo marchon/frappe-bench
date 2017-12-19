@@ -1,0 +1,19 @@
+2017-12-17 07:28:13,848 INFO getting app erpnext
+2017-12-17 07:28:13,854 INFO git clone https://github.com/frappe/erpnext   --origin upstream
+2017-12-17 08:16:27,376 INFO getting app erpnext
+2017-12-17 08:16:27,400 INFO git clone https://github.com/frappe/erpnext   --origin upstream
+2017-12-17 08:46:21,660 INFO updating bench
+2017-12-17 08:46:21,660 INFO git pull
+2017-12-17 08:47:47,226 INFO ./env/bin/pip install Pillow
+2017-12-17 08:47:50,965 INFO pulling frappe
+2017-12-17 08:47:50,975 INFO git pull  upstream develop
+2017-12-17 08:48:30,441 INFO find . -name "*.pyc" -delete
+2017-12-17 08:48:30,491 INFO ./env/bin/pip install --upgrade pip
+2017-12-17 08:48:32,785 INFO ./env/bin/pip install -q -r /home/ikhlas/bench-repo/requirements.txt
+2017-12-17 08:57:06,900 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2017-12-17 08:57:13,275 INFO ./env/bin/pip install -q -r ./apps/erpnext/requirements.txt
+2017-12-17 09:04:47,089 INFO npm install
+2017-12-19 22:37:59,483 INFO getting app erpnext
+2017-12-19 22:37:59,586 INFO git clone https://github.com/frappe/erpnext   --origin upstream
+2017-12-19 23:13:59,570 INFO installing erpnext
+2017-12-19 23:13:59,570 INFO ./env/bin/pip install -q  -e ./apps/erpnext --no-cache-dir
